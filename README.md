@@ -32,5 +32,13 @@ Do you have any problem or doubts please raise the issue or directly contact to 
 
 ## Citation
 ```
-
+@INPROCEEDINGS{10249152,
+  author={Sinha, Aryaman and Puhan, Niladri B. and Dash, Soumya P. and Mrudhul, Guda and Panda, Ganapati},
+  booktitle={2023 3rd International Conference on Range Technology (ICORT)}, 
+  title={Adversarial Defense with Local Robust Principal Component Analysis and Wavelet Denoising}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  doi={10.1109/ICORT56052.2023.10249152}}
 ```
