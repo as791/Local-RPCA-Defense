@@ -3,6 +3,8 @@
 #### Aryaman Sinha, N. B. Puhan, et al.
 #### Indian Institute of Technology Bhubaneswar
 
+Link: https://ieeexplore.ieee.org/document/10249152
+
 ## Abstract
 In this work, a local robust principal component analysis (RPCA)-based adversarial defense methodology is presented. The proposed defense is inspired by recent works of input reconstruction paradigm. The proposed method uses localised processing to apply RPCA towards removal of adversarial perturbations. The reconstructed image is guided by applying wavelet denoising to remove residual perturbation which improves the defense more efficiently. Experimental results are presented using
 state-of-the-art C&W attack and Square attack to show the effectiveness of the proposed adversarial defense on a pre-trained classifier model.
